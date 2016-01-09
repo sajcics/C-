@@ -1,3 +1,5 @@
+//An example what program do you can see in 'n-digit number.png'
+
 #include <iostream>
 #include <stack>
 #include <cstring>
